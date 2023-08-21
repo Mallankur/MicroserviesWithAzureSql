@@ -7,7 +7,7 @@ namespace CustomerApi.Data
     {
        
         
-            public DbSet<Customer> Customers{ get; set; }
+         public DbSet<Customer> Customers{ get; set; }
          public DbSet<Vehicle> vihicles { get; set; }
 
 

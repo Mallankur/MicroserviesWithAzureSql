@@ -172,3 +172,8 @@ C:\Users\ankur\Desktop\Scala\MicroserviesWithAzureSql\Src\CustomerApi\obj\Debug\
 C:\Users\ankur\Desktop\Scala\MicroserviesWithAzureSql\Src\CustomerApi\obj\Debug\net6.0\CustomerApi.csproj.CopyComplete
 C:\Users\ankur\Desktop\Scala\MicroserviesWithAzureSql\Src\CustomerApi\obj\Debug\net6.0\CustomerApi.genruntimeconfig.cache
 C:\Users\ankur\Desktop\Scala\MicroserviesWithAzureSql\Src\CustomerApi\obj\Debug\net6.0\ref\CustomerApi.dll
+C:\Users\ankur\Desktop\Scala\MicroserviesWithAzureSql\Src\CustomerApi\bin\Debug\net6.0\Azure.Core.Amqp.dll
+C:\Users\ankur\Desktop\Scala\MicroserviesWithAzureSql\Src\CustomerApi\bin\Debug\net6.0\Azure.Messaging.ServiceBus.dll
+C:\Users\ankur\Desktop\Scala\MicroserviesWithAzureSql\Src\CustomerApi\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+C:\Users\ankur\Desktop\Scala\MicroserviesWithAzureSql\Src\CustomerApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ankur\Desktop\Scala\MicroserviesWithAzureSql\Src\CustomerApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll

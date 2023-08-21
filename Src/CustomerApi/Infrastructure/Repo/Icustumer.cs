@@ -4,7 +4,7 @@ namespace CustomerApi.Infrastructure.Repo
 {
     public interface Icustumer
     {
-        Task<Customer> CreateAsync(Customer customer);  
+        Task  CreateAsync(Customer customer);  
 
 
     }
