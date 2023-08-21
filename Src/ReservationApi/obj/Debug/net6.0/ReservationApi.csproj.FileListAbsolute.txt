@@ -172,3 +172,7 @@ C:\Users\ankur\Desktop\Scala\MicroserviesWithAzureSql\Src\ReservationApi\obj\Deb
 C:\Users\ankur\Desktop\Scala\MicroserviesWithAzureSql\Src\ReservationApi\obj\Debug\net6.0\ReservationApi.pdb
 C:\Users\ankur\Desktop\Scala\MicroserviesWithAzureSql\Src\ReservationApi\obj\Debug\net6.0\ReservationApi.genruntimeconfig.cache
 C:\Users\ankur\Desktop\Scala\MicroserviesWithAzureSql\Src\ReservationApi\obj\Debug\net6.0\ref\ReservationApi.dll
+C:\Users\ankur\Desktop\Scala\MicroserviesWithAzureSql\Src\ReservationApi\bin\Debug\net6.0\Azure.Core.Amqp.dll
+C:\Users\ankur\Desktop\Scala\MicroserviesWithAzureSql\Src\ReservationApi\bin\Debug\net6.0\Azure.Messaging.ServiceBus.dll
+C:\Users\ankur\Desktop\Scala\MicroserviesWithAzureSql\Src\ReservationApi\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+C:\Users\ankur\Desktop\Scala\MicroserviesWithAzureSql\Src\ReservationApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
