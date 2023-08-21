@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ankur\\Desktop\\Scala\\Solution1\\CustomerApi\\CustomerApi.csproj": {}
+    "C:\\Users\\ankur\\Desktop\\Scala\\MicroserviesWithAzureSql\\Src\\CustomerApi\\CustomerApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ankur\\Desktop\\Scala\\Solution1\\CustomerApi\\CustomerApi.csproj": {
+    "C:\\Users\\ankur\\Desktop\\Scala\\MicroserviesWithAzureSql\\Src\\CustomerApi\\CustomerApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ankur\\Desktop\\Scala\\Solution1\\CustomerApi\\CustomerApi.csproj",
+        "projectUniqueName": "C:\\Users\\ankur\\Desktop\\Scala\\MicroserviesWithAzureSql\\Src\\CustomerApi\\CustomerApi.csproj",
         "projectName": "CustomerApi",
-        "projectPath": "C:\\Users\\ankur\\Desktop\\Scala\\Solution1\\CustomerApi\\CustomerApi.csproj",
+        "projectPath": "C:\\Users\\ankur\\Desktop\\Scala\\MicroserviesWithAzureSql\\Src\\CustomerApi\\CustomerApi.csproj",
         "packagesPath": "C:\\Users\\ankur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ankur\\Desktop\\Scala\\Solution1\\CustomerApi\\obj\\",
+        "outputPath": "C:\\Users\\ankur\\Desktop\\Scala\\MicroserviesWithAzureSql\\Src\\CustomerApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ankur\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Azure.Messaging.ServiceBus": {
+              "target": "Package",
+              "version": "[7.16.1, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.10, )"
@@ -53,6 +57,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.10, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
