@@ -3728,11 +3728,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ankur\\Desktop\\Scala\\Solution1\\ReservationApi\\ReservationApi.csproj",
+      "projectUniqueName": "C:\\Users\\ankur\\Desktop\\Scala\\MicroserviesWithAzureSql\\Src\\ReservationApi\\ReservationApi.csproj",
       "projectName": "ReservationApi",
-      "projectPath": "C:\\Users\\ankur\\Desktop\\Scala\\Solution1\\ReservationApi\\ReservationApi.csproj",
+      "projectPath": "C:\\Users\\ankur\\Desktop\\Scala\\MicroserviesWithAzureSql\\Src\\ReservationApi\\ReservationApi.csproj",
       "packagesPath": "C:\\Users\\ankur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ankur\\Desktop\\Scala\\Solution1\\ReservationApi\\obj\\",
+      "outputPath": "C:\\Users\\ankur\\Desktop\\Scala\\MicroserviesWithAzureSql\\Src\\ReservationApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ankur\\AppData\\Roaming\\NuGet\\NuGet.Config",
