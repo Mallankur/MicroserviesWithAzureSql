@@ -32,7 +32,7 @@ namespace CustomerApi.Infrastructure.Repo
             await _dbC.Customers.AddAsync(customer);
             await _dbC.SaveChangesAsync();
             string connectionString = "Endpoint=sb://mall123.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=BYSgibsTkLpA9w8cvvfPMSX4SUpIuFRhZ+ASbMEbhzg=";
-            string queueName = "ank";
+            string queueName = "ankurmall";
             await using var client = new ServiceBusClient(connectionString);
             var objectAsText = JsonConvert.SerializeObject(customer);
 
