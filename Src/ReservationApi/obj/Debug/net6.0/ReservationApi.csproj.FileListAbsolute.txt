@@ -176,4 +176,7 @@ C:\Users\ankur\Desktop\Scala\MicroserviesWithAzureSql\Src\ReservationApi\bin\Deb
 C:\Users\ankur\Desktop\Scala\MicroserviesWithAzureSql\Src\ReservationApi\bin\Debug\net6.0\Azure.Messaging.ServiceBus.dll
 C:\Users\ankur\Desktop\Scala\MicroserviesWithAzureSql\Src\ReservationApi\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
 C:\Users\ankur\Desktop\Scala\MicroserviesWithAzureSql\Src\ReservationApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+<<<<<<< HEAD
 C:\Users\ankur\Desktop\Scala\MicroserviesWithAzureSql\Src\ReservationApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+=======
+>>>>>>> main
