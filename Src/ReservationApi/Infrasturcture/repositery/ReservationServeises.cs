@@ -21,7 +21,7 @@ namespace ReservationApi.Infrasturcture.repositery
         public async Task<List<Reservation>> GetAllReservation()
         {
             string connectionString = "Endpoint=sb://mall123.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=BYSgibsTkLpA9w8cvvfPMSX4SUpIuFRhZ+ASbMEbhzg=";
-            string queueName = "ank";
+            string queueName = "ankurmall";
             await using var client = new ServiceBusClient(connectionString);
             var reciver = client.CreateReceiver(queueName);
             IReadOnlyList<ServiceBusReceivedMessage> receivedMessages = await reciver.ReceiveMessagesAsync(10);
