@@ -26,12 +26,7 @@ namespace CustomerApi.Controllers
             await _cs.CreateAsync(value);
         }
 
-        // PUT api/<CustomerController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
-
+       
         
         
     }
